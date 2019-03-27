@@ -14,4 +14,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our 
 [online documentation](https://flutter.io/docs), which offers tutorials, 
 样本，移动开发指南和完整的API参考。
+
 效果预览：
+![image](https://github.com/BBNO/flutter_bottom_navigation/blob/master/底部导航栏.jpg) 
